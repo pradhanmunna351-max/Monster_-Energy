@@ -1,0 +1,6 @@
+{
+  "name": "Monster Energy Official Website",
+  "description": "Official Monster Energy web experience featuring product catalog, flavor profiles, video action header, store locator, loyalty rewards program, flash sales notifications, personalized flavor recommendations, and seamless mobile checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
